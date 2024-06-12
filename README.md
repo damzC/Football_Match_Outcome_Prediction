@@ -21,7 +21,7 @@ This Python notebook provides a comprehensive solution for predicting soccer mat
 
 # Getting Started
 1. Clone this repository to your local machine.
-2. Install the required Python libraries from the requirements.txt file
+2. Install the required Python libraries from the `requirements.txt` file
 3. Open the `Football_Match_Outcome_Predictor.ipynb` notebook in Google Colab or Jupyter Notebook.
 4. Follow the instructions in the notebook to prepare the data, train the models, and evaluate the results.
 
