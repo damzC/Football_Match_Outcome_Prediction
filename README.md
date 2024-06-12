@@ -1,5 +1,4 @@
-# Title
-# Python Notebook for Predicting Football Match Outcomes
+# Predicting Football Match Outcomes
 
 # Introduction
 This Python notebook provides a comprehensive solution for predicting soccer match outcomes using various machine learning models. It includes data preparation, feature selection, model training, evaluation, and explanation.
